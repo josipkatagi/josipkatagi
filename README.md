@@ -31,8 +31,12 @@ Currently learning how to identify vulnerabilities, understand networks, and dev
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephcyber&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephcyber&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephcyber&theme=github_dark" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephcyber&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephcyber&theme=github_dark" width="49%">
 </p>
 
 ### 🐍 Contribution Activity
