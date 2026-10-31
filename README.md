@@ -35,8 +35,8 @@ Currently learning how to identify vulnerabilities, understand networks, and dev
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephcyber&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephcyber&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josipkatagi&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josipkatagi&theme=github_dark" width="49%">
 </p>
 
 ### 🐍 Contribution Activity
