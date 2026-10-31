@@ -1,45 +1,48 @@
 # 🔐 Hey, I'm Joseph!
 
-### Aspiring Cybersecurity Specialist | BSIT Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Specialist;Exploring+Ethical+Hacking;Learning+AI+for+Cybersecurity;Think+Like+an+Attacker.+Build+Like+a+Defender." />
+</p>
 
-I'm an Information Technology student interested in cybersecurity, ethical hacking, and AI-driven security solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300">
+</p>
 
-Currently exploring how systems work, how vulnerabilities are discovered, and how technology can be used to build safer digital environments.
+### 🛡️ About Me
 
----
+I'm an Information Technology student passionate about cybersecurity, ethical hacking, and AI-driven security solutions.
 
-### 🛡️ Areas of Interest
-- Ethical Hacking
-- Network Security
-- Artificial Intelligence in Cybersecurity
-- Digital Forensics
-- Vulnerability Assessment
+Currently learning how to identify vulnerabilities, understand networks, and develop tools that help make digital environments safer.
 
 ### 💻 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode" />
+</p>
 
 ### 🎯 Currently Learning
-- Python for cybersecurity automation
-- Networking fundamentals
-- Linux command line
-- Security fundamentals and ethical hacking
 
-### 🚀 Goals
-- Build practical cybersecurity projects
-- Develop AI-powered security tools
-- Improve programming and problem-solving skills
-- Practice ethical hacking in authorized environments
+- Ethical Hacking
+- Network Security
+- Python for Cybersecurity
+- Linux Fundamentals
+- AI in Cybersecurity
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephcyber&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephcyber&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
 ---
 
-### 📫 Connect With Me
-- GitHub: [@josephcyber](https://github.com/josephcyber)
-
----
-
-*"Think like an attacker. Build like a defender."* 🔐
+<p align="center">
+  <b>⚡ THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER. ⚡</b>
+</p>
