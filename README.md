@@ -31,7 +31,7 @@ Currently learning how to identify vulnerabilities, understand networks, and dev
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephcyber&theme=github_dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josipkatagi&theme=github_dark" width="100%">
 </p>
 
 <p align="center">
